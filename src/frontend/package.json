@@ -1,0 +1,33 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.13.1",
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "core-js": "^3.9.1",
+    "dayjs": "^1.10.5",
+    "jquery": "^3.6.0",
+    "less": "^4.1.1",
+    "less-loader": "^7",
+    "md5": "^2.3.0",
+    "nuxt": "^2.15.3",
+    "pretty-checkbox-vue": "^1.1.9",
+    "v-money": "^0.8.1",
+    "vue-currency-filter": "^5.2.0",
+    "vue-dayjs-plugin": "^1.0.0",
+    "vue-navigation-bar": "^4.1.0",
+    "vue-the-mask": "^0.11.1",
+    "vue2-datepicker": "^3.9.0",
+    "vuejs-datatable": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {}
+}
